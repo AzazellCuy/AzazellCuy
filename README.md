@@ -4,35 +4,28 @@
 
 <h2> About 私自身 </h2>
 
-<img href="left" src="images/Solo-Leveling-PNG.png" width="35%"/>
+<img href="left" src="/Folder%20Archive/VIOLET1.png" width="35%"/>
 
 ```cpp
 Profile Version: 3.2
 --------------------
 Level: 十五
 -----------
-Username: Debasish Ray (デバシッシュ・レイ)
-WhoamI: Graduated Computer Science Student 
-        (コンピュータサイエンスの学生)
-OS:  Windows 11 Pro [64-bit] , Ubuntu 24.04 LTS , Debian OS
-Shell: PowerShell v5.1.22
-Terminal: Visual Studio Code
-
-Location: Chennai
-Education: SRM Institute of Science & Technology, KTR
-
-Interests:
-  - IoT Development (Arduino, Raspberry Pi)
-  - Web Development (Back-End Development)
-  - ML/DL (Time-Series, Neural Networks)
-  - DevOps (Infrastructure-Deployments)
-
-Hobbies: Cycling, Programming, Cooking
-Learning: Docker, Kubernetes, AWS, React, TailwindCSS
-Languages: C++, JS, C, Python
-Fav_Subject: Computer Networks, PCB Design
+Username: AzazelCuyy | Zulfan Lubis 
+Founder Industry : MORIKreatif Nusantara
+Location: Kota Medan, Sumatera Utara 
+Education: Alumni SMK Reis Cendekia
+Favorite Band : BABY METAL, Bad Omens, Radwimps, BMTH
+Favorite Anime : Violet Evergarden, Demon Slayer, Naruto Shippuden
+Favorite Song : BABYMETAL - Monochrome  
+Skill :
+  - Desain Grafis 
+  - Editing Video 
+  - Film Maker 
+Hobbies: Gamers, Nonton Film, Turu
+Fav_Subject: MORICreatif Internasional
 
 -------------
-"自分が立っている場所が頂点だと決めたら、私は決して動かない。"
+"Copyright 2018 - AzazellCuyy | Zulfan Lubis"
 ```
 
