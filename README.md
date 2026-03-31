@@ -4,7 +4,7 @@
 
 <h2> About 私自身 </h2>
 
-<img href="left" src="/Folder%20Archive/VIOLET1.png" width="35%"/>
+<img align="left" src="/Folder%20Archive/VIOLET1.png" width="35%"/>
 
 ```cpp
 Profile Version: 3.2
