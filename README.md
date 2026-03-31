@@ -4,7 +4,7 @@
 
 <h2> About 私自身 </h2>
 
-<img align="left" src="/Folder%20Archive/VIOLET1.png" width="35%"/>
+<img href="left" src="/Folder%20Archive/VIOLET1.png" width="35%"/>
 
 ```cpp
 Profile Version: 3.2
@@ -29,3 +29,8 @@ Fav_Subject: MORICreatif Internasional
 "Copyright 2018 - AzazellCuyy | Zulfan Lubis"
 ```
 
+<h2 align="center"> MY BINI‌ </h2>
+<p align="center">
+  <img src="/Folder%20Archive/Violet%20Evergarden.gif" style="max-width: 100%;">
+    <img src="/Folder%20Archive/Violet%202.gif" style="max-width: 100%;">
+</p>
