@@ -1,90 +1,116 @@
+<!-- BANNER UTAMA -->
 <div align="center">
   <a href="https://github.com/AzazellCuy">
-    <img src="/Folder%20Archive/AZAZELLCuyy.png" alt="AzazelCuyy Banner" width="100%" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.8);">
+    <img src="/Folder%20Archive/AZAZELLCuyy.png" alt="AzazelCuyy Banner" width="100%" style="border-radius: 10px;">
   </a>
+</div>
+<br><br>
 
-  <br><br>
-
-  <h1>👋 Halo, Saya Zulfan Lubis (AzazelCuyy)</h1>
-  <h3> 👑 Founder of MORIKreatif Nusantara | 🎨 Graphic Designer | 🎬 Film Maker </h3>
+<!-- IDENTITAS & PROFIL -->
+<div align="center">
+  <img align="right" src="/Folder%20Archive/VIOLET1.png" width="22%" alt="Character Avatar" style="border-radius: 15px;">
   
-  <p>
-    Seorang kreator yang berfokus pada desain grafis, editing video, dan kustomisasi antarmuka web. Selalu bereksperimen dengan visual dan kode untuk menciptakan karya yang memanjakan mata.
+  <h2 align="left">✦ Zulfan Lubis (AzazelCuyy) ✦</h2>
+  <p align="left">
+    <i>Founder of <b>MORILiton Group</b> | Graphic Designer, Video Editor, & Front-End Customization</i>
   </p>
-</div>
-
----
-
-<div align="center">
-  <h2> 📜 Tentang Saya </h2>
-</div>
-
-<table align="center" style="width: 100%; border: none;">
-  <tr>
-    <td width="30%" align="center">
-      <img src="/Folder%20Archive/VIOLET1.png" width="80%" style="border-radius: 50%; box-shadow: 0px 4px 10px rgba(0,0,0,0.5);" alt="Profile Avatar"/>
-    </td>
-    <td width="70%">
-      <ul>
-        <li>👤 <b>Username:</b> AzazelCuyy | Zulfan Lubis</li>
-        <li>📍 <b>Location:</b> Kota Medan, Sumatera Utara</li>
-        <li>🎓 <b>Education:</b> Alumni SMK Reis Cendekia</li>
-        <li>💼 <b>Industry:</b> MORIKreatif Nusantara (Internasional)</li>
-        <li>🎮 <b>Hobbies:</b> Gamers, Nonton Film, Turu</li>
-        <li>📈 <b>Profile Level:</b> 20 (Version 3.1)</li>
-      </ul>
-      <b>🛠️ Top Skills & Tools:</b><br>
-      <code>Desain Grafis (Photoshop, Corel Draw, Pixellab)</code> • <code>Video Editing</code> • <code>Film Making</code> • <code>Blogger Theme Customization (CSS Light/Dark Mode)</code>
-    </td>
-  </tr>
-</table>
-
----
-
-<div align="center">
-  <h2> 🎧 Hiburan & Favorit 🍿 </h2>
-  <p>Inspirasi harian dari musik cadas, melodi indah, dan animasi papan atas.</p>
-</div>
-
-### 🎵 Favorite Bands & Music
-<p align="left">
-  <img src="https://img.shields.io/badge/-BABYMETAL-111111?style=for-the-badge&logo=applemusic&logoColor=red">
-  <img src="https://img.shields.io/badge/-Bad_Omens-000000?style=for-the-badge&logo=spotify&logoColor=white">
-  <img src="https://img.shields.io/badge/-Radwimps-1DB954?style=for-the-badge&logo=spotify&logoColor=white">
-  <img src="https://img.shields.io/badge/-Bring_Me_The_Horizon-8B0000?style=for-the-badge&logo=youtubemusic&logoColor=white">
-  <br>
-  <b>🎶 Track Favorit Sepanjang Masa:</b> <i>BABYMETAL - Monochrome</i>
-</p>
-
-### 🎬 Favorite Anime & Films
-<p align="left">
-  <img src="https://img.shields.io/badge/-Violet_Evergarden-FFD700?style=for-the-badge&logo=myanimelist&logoColor=black">
-  <img src="https://img.shields.io/badge/-Demon_Slayer-4B0082?style=for-the-badge&logo=myanimelist&logoColor=white">
-  <img src="https://img.shields.io/badge/-Naruto_Shippuden-FF4500?style=for-the-badge&logo=myanimelist&logoColor=white">
-</p>
-
----
-
-<div align="center">
-  <h2> ✧ 𝔐𝔶 𝔅𝔦𝔫𝔦 ✧ </h2>
-  <i>"I want to know what 'I love you' means..." — Violet Evergarden</i>
-  <br><br>
   
-  <table style="border: none; background-color: transparent;">
+  <table align="left" style="width: 75%;">
     <tr>
-      <td align="center" style="border: none;">
-        <img src="/Folder%20Archive/Violet%20Evergarden.gif" width="90%" style="border-radius: 12px; box-shadow: 0 8px 16px rgba(0,0,0,0.6); border: 2px solid #FFD700;" alt="Violet 1">
-      </td>
-      <td align="center" style="border: none;">
-        <img src="/Folder%20Archive/Violet%202.gif" width="90%" style="border-radius: 12px; box-shadow: 0 8px 16px rgba(0,0,0,0.6); border: 2px solid #FFD700;" alt="Violet 2">
-      </td>
+      <td width="20%">🌐 <b>Level</b></td>
+      <td>20</td>
+    </tr>
+    <tr>
+      <td>📌 <b>Location</b></td>
+      <td>Kota Medan, Sumatera Utara</td>
+    </tr>
+    <tr>
+      <td>🎓 <b>Education</b></td>
+      <td>Alumni SMK Reis Cendekia</td>
+    </tr>
+    <tr>
+      <td>🛠️ <b>Skills</b></td>
+      <td>Desain Grafis, Video Editing, Film Making, UI/CSS Customization</td>
+    </tr>
+    <tr>
+      <td>🎮 <b>Hobbies</b></td>
+      <td>Gamers, Nonton Film, Turu</td>
     </tr>
   </table>
-  
 </div>
-
+<br clear="both">
 <br>
 
+<!-- TOOLS & SOFTWARE -->
+<h3 align="center">⚡ Tools & Creative Stack</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
+  <img src="https://img.shields.io/badge/CorelDraw-000000?style=for-the-badge&logo=coreldraw&logoColor=white">
+  <img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white">
+</p>
+<br>
+
+<!-- FILM & DRAMA WATCHLIST -->
+<h2 align="center">🎬 Entertainment Archive</h2>
+<p align="center">
+  <i>Regional Favorites: 🇰🇷 Korea | 🇨🇳 China | 🇯🇵 Jepang</i>
+</p>
 <div align="center">
-  <code>© Copyright 2018 - 2026 | AzazellCuyy | Zulfan Lubis | MORIKreatif Nusantara</code>
+  <!-- Ganti LINK_WEBSITE_FILM_KAMU dengan link aslinya -->
+  <a href="LINK_WEBSITE_FILM_KAMU">
+    <img src="https://img.shields.io/badge/🎥_TOTAL_FILM_DITONTON-29_Films-E50914?style=for-the-badge&logo=netflix&logoColor=white" alt="Total Films">
+  </a>
+  &nbsp;&nbsp;
+  <!-- Ganti LINK_WEBSITE_DRAMA_KAMU dengan link aslinya -->
+  <a href="LINK_WEBSITE_DRAMA_KAMU">
+    <img src="https://img.shields.io/badge/🎭_TOTAL_DRAMA_DITONTON-45_Dramas-1081C1?style=for-the-badge&logo=viber&logoColor=white" alt="Total Dramas">
+  </a>
+</div>
+<br>
+
+<!-- MUSIC FAVORITES -->
+<h2 align="center">🎧 Music & Anime Favorites</h2>
+<p align="center">
+  <b>Top Track:</b> <img src="https://img.shields.io/badge/BABYMETAL-Monochrome-black?style=flat-square&logo=spotify&logoColor=white">
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Band-BABYMETAL-red?style=flat-square">
+  <img src="https://img.shields.io/badge/Band-Bad_Omens-black?style=flat-square">
+  <img src="https://img.shields.io/badge/Band-Radwimps-blue?style=flat-square">
+  <img src="https://img.shields.io/badge/Band-BMTH-darkred?style=flat-square">
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Anime-Violet_Evergarden-8A2BE2?style=flat-square">
+  <img src="https://img.shields.io/badge/Anime-Demon_Slayer-1E90FF?style=flat-square">
+  <img src="https://img.shields.io/badge/Anime-Naruto_Shippuden-FF8C00?style=flat-square">
+</p>
+<br>
+
+<!-- GAME VN FAVORITES -->
+<h2 align="center">🎮 My Favorite Game VN</h2>
+<p align="center">
+  <i>(Visual Novel Experience)</i>
+</p>
+<div align="center">
+  <!-- Ganti src="..." dengan link gambar/banner game VN favoritmu -->
+  <img src="https://via.placeholder.com/400x200/1a1a1a/ffffff?text=Banner+Game+VN+1" width="45%" style="border-radius: 10px; margin: 5px;">
+  <img src="https://via.placeholder.com/400x200/1a1a1a/ffffff?text=Banner+Game+VN+2" width="45%" style="border-radius: 10px; margin: 5px;">
+</div>
+<br>
+
+<!-- MY BINI (VIOLET EVERGARDEN) -->
+<h2 align="center">✧ MY BINI ✧</h2>
+<p align="center"><i>"I will run as fast as I can to wherever my customer desires."</i></p>
+<div align="center">
+  <img src="/Folder%20Archive/Violet%20Evergarden.gif" width="45%" style="border-radius: 15px; box-shadow: 0px 4px 15px rgba(0,0,0,0.5); margin: 5px;">
+  <img src="/Folder%20Archive/Violet%202.gif" width="45%" style="border-radius: 15px; box-shadow: 0px 4px 15px rgba(0,0,0,0.5); margin: 5px;">
+</div>
+<br><br>
+
+<!-- FOOTER -->
+<hr style="border: 1px solid #333;">
+<div align="center">
+  <p><b>MORILiton Group</b> © 2018 - Present | Zulfan Lubis</p>
 </div>
